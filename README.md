@@ -40,7 +40,7 @@ cd basic-calculator
 python calculator.py
 ```
 
-***Usage***
+***Usage***  
 Once the program is running, follow the prompts to perform calculations. You will be asked to:
 
 1. Pick an option  
