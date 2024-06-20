@@ -43,11 +43,11 @@ python calculator.py
 ***Usage***
 Once the program is running, follow the prompts to perform calculations. You will be asked to:
 
-pick an option  
-choose the operation (Addition, Subtraction, Multiplication, Division).  
-Enter the first and second number (exception for `division`, when the second number is null the program will ask to input a number > 0).  
-The program will ask to input another number after doing the first operations  
-The program will then display the result of the operation.  
+1. Pick an option  
+2. Choose the operation (Addition, Subtraction, Multiplication, Division).  
+3. Enter the first and second number (exception for `division`, when the second number is null the program will ask to input a number > 0).  
+4. The program will ask to input another number after doing the first operations  
+5. The program will then display the result of the operation including how many inputs has been done.  
 
 *Example*
 ```
