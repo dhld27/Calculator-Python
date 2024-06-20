@@ -43,17 +43,33 @@ python calculator.py
 ***Usage***
 Once the program is running, follow the prompts to perform calculations. You will be asked to:
 
-Enter the first number.
-Enter the operation (add, subtract, multiply, divide).
-Enter the second number.
+pick an option
+choose the operation (Addition, Subtraction, Multiplication, Division).
+Enter the first and second number (exception for `division`, when the second number is null the program will ask to input a number > 0).
+The program will ask to input another number after doing the first operations
 The program will then display the result of the operation.
 
 *Example*
 ```
-Enter first number: 10
-Enter operation (add, subtract, multiply, divide): add
-Enter second number: 5
-Result: 15
+Simple Calculator in Python!
+              Enter 'a' for Addition
+              Enter 's' for Subtraction
+              Enter 'm' for Multiplication
+              Enter 'd' for Division
+              Enter 'q' to quit
+```
+
+*When doing an arithmetic operations: Addition*
+```
+Addition
+Enter a number: 2
+Enter another number: 3
+Current result: 5.0
+Enter more (y/n): y
+Enter another number: 1
+Current result: 6.0
+Enter more (y/n): n
+Answer = 6.0 and the total inputs: 3
 ```
 # Contributing
 Contributions are welcome! Please follow these steps:
