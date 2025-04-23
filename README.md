@@ -26,7 +26,7 @@ Python 3.x
 ***Clone the repository:***
 
 ```
-git clone https://github.com/yourusername/basic-calculator.git
+git clone https://github.com/dhld27/basic-calculator.git
 ```
 
 ***Navigate to the project directory:***
